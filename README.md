@@ -10,7 +10,7 @@ The emulator is available at https://anonymousbirb5100.github.io/gametime-player
 
 If you wish to fork this emulator, follow the instructions:</br>
 1. Go to https://github.com/AnonymousBirb5100/gametime-player.</br>
-2. Fork the repository. **During forking, remember to check off "copy to ``master`` branch only".**
+2. Fork the repository. During forking, remember to check off "copy the ``master`` branch only".
 3. Publish your repository off the ``gh-pages`` branch.
 4. You have a working GameTime Player!
 
