@@ -1,17 +1,23 @@
-# gametime-player
+# GameTime Player - BirdHub
 
-A super simple JavaScript based libretro frontend.
+GameTime Player is a retro emulator created by matthewbauer. It has arrived on BirdHub for simple, free retro gaming experience. This emulator supports .NES (Nintendo Entertainment System), .GBA (GameBoy Advance), and more.
 
-## Demo
+## Links
 
-A running demo is available at https://matthewbauer.us/gametime-player/. There's also a Chrome App (built from the chrome branch) available at https://chrome.google.com/webstore/detail/gpemu/jhficiigpnhhaojldmanflihieepanbb.
+The emulator is available at https://anonymousbirb5100.github.io/gametime-player/. Original version available at https://matthewbauer.us/gametime-player/.
 
 ## Installing
 
-The easiest way requires Node and Git.
+If you wish to fork this emulator, follow the instructions:</br>
+1. Go to https://github.com/AnonymousBirb5100/gametime-player.</br>
+2. Fork the repository. **During forking, remember to check off "copy to ``master`` branch only".**
+3. Publish your repository off the ``gh-pages`` branch.
+4. You have a working GameTime Player!
+
+If you wish to port through Terminal, it requires Node and Git.
 
 ```sh
-git clone https://github.com/matthewbauer/gametime-player.git
+git clone https://github.com/AnonymousBirb5100/gametime-player.git
 cd gametime-player
 npm install
 npm start
